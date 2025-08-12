@@ -1,3 +1,7 @@
+# Hello, I’m Catalin 👋
+
+## I build reliable, fast, and beautiful web applications 💻
+
 I’m a TypeScript focused engineer who loves turning ideas into
 smooth, fast, and accessible web experiences with modern web
 technologies like Next.js and React. My journey began in university,
